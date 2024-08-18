@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "965031555196",
+    "firebase_url": "https://rt-push-31265-default-rtdb.firebaseio.com",
+    "project_id": "rt-push-31265",
+    "storage_bucket": "rt-push-31265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965031555196:android:bb2a33cc7e1b9ce8e199f9",
+        "android_client_info": {
+          "package_name": "com.example.mysololife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965031555196-kv8vr9rpsdf60i5brc3f4lgdbdo35e7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOKuCx4a4FW8Eu6Xyp88eFLsfpJdR4YK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965031555196-kv8vr9rpsdf60i5brc3f4lgdbdo35e7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965031555196:android:626923735a8211bfe199f9",
+        "android_client_info": {
+          "package_name": "com.example.rt_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965031555196-kv8vr9rpsdf60i5brc3f4lgdbdo35e7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOKuCx4a4FW8Eu6Xyp88eFLsfpJdR4YK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965031555196-kv8vr9rpsdf60i5brc3f4lgdbdo35e7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
